@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there Daniel👋
 
-<!--
-**dym-chen/dym-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 I was most recently an SWE intern at Shoplogix Constellation Inc.
+- 🔭 I'm currently working on a fitness tracker and other projects!
+- 📫 How to reach me: dychen@uwaterloo.ca or [https://www.linkedin.com/in/daniel-chen/](https://www.linkedin.com/in/daniel-chen-940180177/)
+- 💬 Interests: Volleyball, Golf, Cooking, Art
 
-Here are some ideas to get you started:
+<h3 align="left">👨‍💻 My Work:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description |Languages|
+| ----------- | ----------- | ----------- |
+| [MyFitnessFriends](https://github.com/dym-chen/fitness-friends) |A full-stack web application with integrated USDA API to track fitness, log meals and workouts, and connect with a wellness community.| HTML, TailwindCSS, Typescript |
+| [NanoGPT](https://github.com/dym-chen/nanoGPT2) |A minimal, fast, and simple implementation of GPT for training and fine-tuning small language models, optimized for academic and educational use. | Python , Shell |
+| [EchoHire]() | A Python web app for interviewers to log and review candidate interviews, track feedback, and streamline the hiring process.| PostgreSQL, Python, Flask |
+| [Producer-Consumer](https://github.com/dym-chen/Producer-Consumer) | A program that utilizes Linux system calls, shared memory, and semaphores for process communication and synchronization.| C# |
