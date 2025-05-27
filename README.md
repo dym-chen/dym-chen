@@ -1,4 +1,4 @@
-## Hi there Daniel👋
+## Hi I'm Daniel👋
 
 - 💼 I was most recently an SWE intern at Shoplogix Constellation Inc.
 - 🔭 I'm currently working on a fitness tracker and other projects!
