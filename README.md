@@ -10,5 +10,5 @@
 | Project | Description |Languages|
 | ----------- | ----------- | ----------- |
 | [MyFitnessFriends](https://github.com/dym-chen/fitness-friends) |A full-stack web application with integrated USDA API to track fitness, log meals and workouts, and connect with a wellness community.| Typescript, HTML, TailwindCSS |
-| [UW-Accessibility](https://github.com/dym-chen/UW-Accessibility) |A Python web app that scans web pages for accessibility issues and generates actionable WCAG compliance reports.| MongoDB, Python, Flask |
+| [PagePatrol](https://github.com/dym-chen/PagePatrol) |A Python web app that scans web pages for accessibility issues and generates actionable WCAG compliance reports.| MongoDB, Python, Flask |
 | [Producer-Consumer](https://github.com/dym-chen/Producer-Consumer) | A program that utilizes Linux system calls, shared memory, and semaphores for process communication and synchronization.| C |
